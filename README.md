@@ -8,7 +8,7 @@ A comprehensive archive of algorithms, data structures, and problem solutions cu
 ## 👤 About Me
 - **Name:** Muhammad Al-Muzahid
 - **Handle:** brainsoft
-- **Affiliation:** Master's Student in ICT, BUET (ID: 6232020102)
+- **Affiliation:** Master's Student in ICT, BUET (ID: 1024312006)
 - **Interests:** Competitive Programming, Machine Learning, Applied Cryptography
 
 ---
