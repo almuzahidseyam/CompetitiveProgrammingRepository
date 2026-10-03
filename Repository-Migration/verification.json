@@ -18,6 +18,13 @@
       "directory": "OnlineJudgeSoutions/Codeforces_Archive",
       "tree_sha": "26dfd4fadd65c5d9c35b7fd17dec9d7e4a6efcdd",
       "byte_exact_match": true
+    },
+    {
+      "repository": "cp",
+      "commit": "0ae108ed147a30b6de8f95224ad44374660f7291",
+      "directory": "CP-Archive",
+      "tree_sha": "418f83a02ce478b02e9222e877c51a7f1831e7b4",
+      "byte_exact_match": true
     }
   ]
 }

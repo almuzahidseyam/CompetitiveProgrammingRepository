@@ -1,0 +1,38 @@
+name: Auto-Organize CP Codes
+
+on:
+  push:
+    paths:
+      - '*.cpp'
+      - '*.py'
+      - '*.java'
+      - '*.c'
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          
+      - name: Run Organizer Script
+        run: python organize.py
+        
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Organizer"
+          git add .
+          git commit -m "chore: auto-organize new cp solutions and update index" || exit 0
+          git push

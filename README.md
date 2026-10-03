@@ -74,6 +74,7 @@ A comprehensive archive of algorithms, data structures, and problem solutions cu
 ```text
 .
 ├── Brainsoft-Archive/           # Legacy Brainsoft templates and topic-wise problem notes
+├── CP-Archive/                  # Preserved files and automation from the former cp repository
 ├── Code Library, Templates/     # Standard coding templates (C++) & CheatSheets (including Miller-Rabin)
 ├── CP Notes&Books/              # Useful PDFs, books, and CP study materials
 ├── ICPC-NCPC-IUPC/              # Onsite and Preliminary contest problem sets and solutions
@@ -89,4 +90,4 @@ Feel free to explore and contribute, and don't forget to hit ⭐ if you find thi
 
 ## Repository consolidation
 
-The Brainsoft and Codeforces archives and their original commit histories are preserved here. The separate [Codeforces repository](https://github.com/almuzahidseyam/Codeforces) remains available to retain its stars. See [migration verification and Miller–Rabin usage](Repository-Migration/README.md).
+The Brainsoft, Codeforces, and `cp` archives and their original commit histories are preserved here. The separate [Codeforces repository](https://github.com/almuzahidseyam/Codeforces) remains available to retain its stars. See [migration verification and Miller–Rabin usage](Repository-Migration/README.md).
