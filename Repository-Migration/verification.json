@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-03",
+  "retained_repositories": [
+    "almuzahidseyam/CompetitiveProgrammingRepository",
+    "almuzahidseyam/Codeforces"
+  ],
+  "sources": [
+    {
+      "repository": "Brainsoft-Competitive-Programming-Archive",
+      "commit": "b0c4334c44e777caf62baa46bd52f4a90e5a2b04",
+      "directory": "Brainsoft-Archive",
+      "tree_sha": "e953315a35472c7ad5edae9ea2c64914d8e9c391",
+      "byte_exact_match": true
+    },
+    {
+      "repository": "Codeforces",
+      "commit": "7a684ad37c6284cdf1dafdf02d4ef352e0e8d655",
+      "directory": "OnlineJudgeSoutions/Codeforces_Archive",
+      "tree_sha": "26dfd4fadd65c5d9c35b7fd17dec9d7e4a6efcdd",
+      "byte_exact_match": true
+    }
+  ]
+}

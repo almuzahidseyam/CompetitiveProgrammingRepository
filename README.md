@@ -78,10 +78,15 @@ A comprehensive archive of algorithms, data structures, and problem solutions cu
 ├── CP Notes&Books/              # Useful PDFs, books, and CP study materials
 ├── ICPC-NCPC-IUPC/              # Onsite and Preliminary contest problem sets and solutions
 ├── OnlineJudgeSoutions/         # Solutions across different judges
-│   └── Codeforces_Archive/      # 2100+ Codeforces accepted solutions
+│   └── Codeforces_Archive/      # Original Codeforces repository files
 ├── RUET IUPC 2022/              # Contest specific files
 ├── Ultimate Topic List/         # Guided CP preparation paths
 └── Useful CP Tools/             # Handy scripts and tools for contest environment
 ```
 
 Feel free to explore and contribute, and don't forget to hit ⭐ if you find this repository helpful!
+
+
+## Repository consolidation
+
+The Brainsoft and Codeforces archives and their original commit histories are preserved here. The separate [Codeforces repository](https://github.com/almuzahidseyam/Codeforces) remains available to retain its stars. See [migration verification and Miller–Rabin usage](Repository-Migration/README.md).
